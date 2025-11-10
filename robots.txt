@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nerontech.github.io/sparkles/sitemap.xml
